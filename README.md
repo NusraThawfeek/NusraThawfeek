@@ -1,4 +1,4 @@
-# 👋 Welcome to my github profile💐
+# 👋 Welcome to my github profile
 ###    I’m NusraThawfeek 👩‍💻👩‍🎓
 - 🌱 Currently reading BSC (HONS) in Information Technology,University of Moratuwa.
 - 🔎 Looking for internship in SE.
